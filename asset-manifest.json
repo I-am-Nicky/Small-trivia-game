@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Small-trivia-game/static/js/main.2bbc70c7.js",
+    "static/media/nattu-adnam.jpg": "/Small-trivia-game/static/media/nattu-adnam.41cbb336e47343a00536.jpg",
+    "index.html": "/Small-trivia-game/index.html",
+    "main.2bbc70c7.js.map": "/Small-trivia-game/static/js/main.2bbc70c7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2bbc70c7.js"
+  ]
+}
