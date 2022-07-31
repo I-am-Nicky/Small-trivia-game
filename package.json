@@ -1,6 +1,6 @@
 {
-  "homepage": "https://I-am-Nicky.github.io/Simple-trivia-game",
-  "name": "simpletrivalgame",
+  "homepage": "https://I-am-Nicky.github.io/Small-trivia-game",
+  "name": "smalltriviagame",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
